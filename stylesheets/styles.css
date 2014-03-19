@@ -699,7 +699,7 @@ dt {
 	width: 150px;
 	margin: 0 auto;
 	text-align: left;
-	text-indent: -1000;
+	text-indent: -1000px;
 	background: transparent url("../images/logo.png") 0 0 no-repeat;
 }
 #header {
