@@ -690,7 +690,7 @@ dt {
 #logo {
 	height: 32px;
 	width: 150px;
-	margin: 0 auto;
+	margin: 20px auto;
 	text-align: left;
 	text-indent: -10000px;
 	background: transparent url("../images/logo.png") 0 0 no-repeat;
