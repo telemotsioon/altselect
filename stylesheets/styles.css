@@ -535,17 +535,10 @@ body {
   color: #444;
   font-weight: normal;
   background: #fff;
-  background-attachment: fixed !important;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #2a2a29), color-stop(100%, #1c1c1c));
-  background: -webkit-linear-gradient(#2a2a29, #1c1c1c);
-  background: -moz-linear-gradient(#2a2a29, #1c1c1c);
-  background: -o-linear-gradient(#2a2a29, #1c1c1c);
-  background: -ms-linear-gradient(#2a2a29, #1c1c1c);
-  background: linear-gradient(#2a2a29, #1c1c1c);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #e8e8e8;
+  color: #222;
   margin: 0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -699,7 +692,7 @@ dt {
 	width: 150px;
 	margin: 0 auto;
 	text-align: left;
-	text-indent: -1000px;
+	text-indent: -10000px;
 	background: transparent url("../images/logo.png") 0 0 no-repeat;
 }
 #header {
